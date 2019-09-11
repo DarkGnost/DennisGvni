@@ -1,0 +1,11 @@
+D:\Project\dennis\bin\Debug\netcoreapp2.2\dennis.deps.json
+D:\Project\dennis\bin\Debug\netcoreapp2.2\dennis.runtimeconfig.json
+D:\Project\dennis\bin\Debug\netcoreapp2.2\dennis.runtimeconfig.dev.json
+D:\Project\dennis\bin\Debug\netcoreapp2.2\dennis.dll
+D:\Project\dennis\bin\Debug\netcoreapp2.2\dennis.pdb
+D:\Project\dennis\obj\Debug\netcoreapp2.2\dennis.csprojAssemblyReference.cache
+D:\Project\dennis\obj\Debug\netcoreapp2.2\dennis.csproj.CoreCompileInputs.cache
+D:\Project\dennis\obj\Debug\netcoreapp2.2\dennis.AssemblyInfoInputs.cache
+D:\Project\dennis\obj\Debug\netcoreapp2.2\dennis.AssemblyInfo.cs
+D:\Project\dennis\obj\Debug\netcoreapp2.2\dennis.dll
+D:\Project\dennis\obj\Debug\netcoreapp2.2\dennis.pdb
